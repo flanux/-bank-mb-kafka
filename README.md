@@ -1,4 +1,4 @@
-# Flanux Microservices - Kafka Message Broker Setup
+# Microservices - Kafka Message Broker Setup
 
 Complete Apache Kafka setup for event-driven microservices architecture.
 
